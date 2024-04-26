@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yatiraj</h1>
-<h3 align="center">A passionate C Programmer</h3>
+<h3 align="center">A passionate Electronics Engineer and C Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatiraj2003&label=Profile%20views&color=0e75b6&style=flat" alt="yatiraj2003" /> </p>
 
