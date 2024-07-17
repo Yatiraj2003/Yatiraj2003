@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **patilyatirajgouda@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Yatiraj2003/Certificates/blob/main/Yatirajgouda_Patil_KLE%20Tech%20University.pdf]([https://github.com/Yatiraj2003/Certificates/blob/main/Yatirajgouda_Patil_KLE%20Tech%20University.pdf](https://github.com/Yatiraj2003/Certificates/blob/main/Resume.pdf))
+- 📄 Know about my experiences [https://github.com/Yatiraj2003/Certificates/blob/main/Yatirajgouda_Patil_KLE%20Tech%20University.pdf](https://github.com/Yatiraj2003/Certificates/blob/main/Resume.pdf)
 
 - ⚡ Fun fact **I think I am funny😅**
 
