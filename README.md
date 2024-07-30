@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **patilyatirajgouda@gmail.com**
 
-- 📄 Know about my experiences https://github.com/Yatiraj2003/Certificates/blob/main/Resume.pdf
+- 📄 Know about my experiences https://github.com/Yatiraj2003/Certifications/blob/main/resume_1.pdf
 - ⚡ Fun fact **I think I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
