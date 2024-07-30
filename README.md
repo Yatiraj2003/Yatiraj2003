@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatiraj2003&label=Profile%20views&color=0e75b6&style=flat" alt="yatiraj2003" /> </p>
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at https://github.com/Yatiraj2003?tab=repositories
 
 - 📫 How to reach me **patilyatirajgouda@gmail.com**
 
